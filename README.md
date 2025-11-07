@@ -10,6 +10,11 @@ Java-based demonstration of business logic implementation and rule-based systems
 ### [`refactoring-demo/`](./refactoring-demo/)  
 Java project showcasing code refactoring and legacy code improvement techniques with GitHub Copilot.
 
+## Related Projects
+
+### [Order Processing Demo](https://github.com/yelamanchili-murali/order-processing-demo)
+A Spring Boot 3 application demonstrating enterprise-scale order processing with AWS cloud services integration (DynamoDB, SQS, SNS). This project showcases GitHub Copilot's capabilities in modern cloud-native application development and complex service orchestration patterns. *Note: Maintained in separate repository due to AWS infrastructure requirements.*
+
 ## Purpose
 
 These demonstrations illustrate GitHub Copilot's early capabilities in:
